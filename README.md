@@ -15,7 +15,7 @@ The code of the project is organized as follows :
 -```/src/Viscek_matrix.m```, ```/src/Heat_matrix.m``` and ```/src/Poisson_matrix.m``` produce the different tables from [1].<br />
 -```/src/trace_invA.m``` and ```/src/time_measure.m``` produce Figure 1 and 2 respectively from [1]. Examples of the plots used to construct those figures are stored in ```/plots```.<br />
 
-Note that the files used to produce the different results we executed on Matlab R2022b and do not need any special libraries.
+Note that the files used to produce the different results were executed on Matlab R2022b and do not need any special libraries.
 
 # References
 [1] Zhaojun Bai, Gark Fahey, and Gene Golub. Some large-scale matrix computation
